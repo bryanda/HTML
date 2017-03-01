@@ -11,11 +11,11 @@ Visit the link below to read more about HTML and see a list of resources:
 1. Open a text editor (for example, Notepad++)
 2. Save file with the html extension (for example, my-portfolio.html)
 3. Include the following:
-⋅⋅* headings
-⋅⋅* paragraphs
-⋅⋅* lists
-⋅⋅* links
-⋅⋅* images
+  * headings
+  * paragraphs
+  * lists
+  * links
+  * images
 4. View it in a browser
 5. Verify it follows standards  with the [W3 validator](http://validator.w3.org)
 
