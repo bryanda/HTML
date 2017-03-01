@@ -2,4 +2,4 @@
 This repository is about HTML basics.
 It is an approach to learn, practice, and teach others!
 
-[Learning HTML](http://bryanda.me/html/)
+[Learning HTML](http://bryanda.me/html/LearningHTML.html)
