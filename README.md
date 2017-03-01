@@ -8,12 +8,15 @@ Visit the link below to read more about HTML and see a list of resources:
 
 ## HTML Project Idea
 ### Create a portfolio using html
-Include the following:
-1. headings
-2. paragraphs
-3. lists
-4. links
-5. images
+1. Open a text editor (for example, Notepad++)
+2. Save file with the html extension (for example, my-portfolio.html)
+3. Include the following:
+* headings
+* paragraphs
+* lists
+* links
+* images
+4. View it in a browser
 
 Do not forget to implement current _HTML standards_ and considering _usability_ and _accessibility_ in your design!
 
