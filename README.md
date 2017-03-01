@@ -4,7 +4,7 @@ It is an approach to learn, practice, and teach others!
 
 ## Start learning HTML
 Visit the link below to read more about HTML and see a list of resources:
-[Learning HTML](http://bryanda.me/html/LearningHTML.html)
+* [Learning HTML](http://bryanda.me/html/LearningHTML.html)
 
 ## HTML Project Idea
 ### Create a portfolio using html
